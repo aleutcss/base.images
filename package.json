@@ -1,25 +1,30 @@
 {
-  "name": "inuit-images",
-  "version": "0.3.3",
-  "description": "Base image styles for the inuitcss framework",
+  "name": "aleut-images",
+  "version": "0.4.0",
+  "description": "Base image styles for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_base.images.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inuitcss/base.images.git"
+    "url": "https://github.com/aleutcss/base.images.git"
   },
-  "author": "Harry Roberts <harry@csswizardry.com>",
+  "contributors": [
+    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
+    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
+    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"}
+  ],
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/inuitcss/base.images/issues"
+    "url": "https://github.com/aleutcss/base.images/issues"
   },
-  "homepage": "https://github.com/inuitcss/base.images",
+  "homepage": "https://github.com/aleutcss/base.images",
   "keywords": [
-    "inuitcss",
+    "aleutcss",
+    "aleut",
     "oocss",
     "css"
   ],
   "dependencies": {
-    "inuit-defaults": "~0.2.0",
-    "inuit-mixins": "~0.2.2"
+    "aleut-defaults": "~0.2.0",
+    "aleut-mixins": "~0.2.2"
   }
 }
