@@ -24,7 +24,7 @@
     "css"
   ],
   "dependencies": {
-    "aleut-defaults": "~0.2.0",
-    "aleut-mixins": "~0.2.2"
+    "aleut-defaults": "~0.3.0",
+    "aleut-mixins": "~0.3.0"
   }
 }
