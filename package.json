@@ -1,19 +1,19 @@
 {
-  "name": "aleut-images",
+  "name": "@aleut/aleut-images",
   "version": "0.4.0",
   "description": "Base image styles for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_base.images.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aleutcss/base.images.git"
+    "url": "git+https://github.com/aleutcss/base.images.git"
   },
   "contributors": [
-    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
-    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
-    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"},
-    {"name": "Harry Roberts", "email": "harry@csswizardry.com"}
+    "Marius Hauken <hauken@netliferesearch.com> (http://twitter.com/mhauken)",
+    "Robin Sandborg <robin@netliferesearch.com> (http://twitter.com/robrobro)",
+    "Knut Melvær <knut@netliferesearch.com> (http://twitter.com/kmelve)",
+    "Harry Roberts <harry@csswizardry.com>"
   ],
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/aleutcss/base.images/issues"
   },
@@ -27,5 +27,9 @@
   "dependencies": {
     "aleut-defaults": "~0.3.0",
     "aleut-mixins": "~0.3.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
