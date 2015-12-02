@@ -25,11 +25,7 @@
     "css"
   ],
   "dependencies": {
-    "aleut-defaults": "~0.3.0",
-    "aleut-mixins": "~0.3.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": ""
+    "@aleut/aleut-defaults": "~0.3.0",
+    "@aleut/aleut-mixins": "~0.3.0"
+  }
 }
