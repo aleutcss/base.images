@@ -1,5 +1,5 @@
 {
-  "name": "@aleut/aleut-images",
+  "name": "aleut-images",
   "version": "0.4.0",
   "description": "Base image styles for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_base.images.scss",
